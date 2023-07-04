@@ -62,14 +62,13 @@ In other words, **the company wants to understand the driving factors (or driver
 - Anaconda - Version 2.3.2
 
 ## Acknowledgements
-Give credit here.
 - The project references insights and inferences from live presentation given by Dr. Pooja Jain
 - EDA course material from upGrads curriculum at [https://learn.upgrad.com/](https://learn.upgrad.com/).
 - [What is Exploratory Data Analysis? by Prasad Patil](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 - [https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
 
 ## Team
-Vikram Pawar
+[Vikram Pawar](https://www.linkedin.com/in/vikrampawar88/)
 
 
 ## Contact
