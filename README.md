@@ -45,13 +45,15 @@ In other words, **the company wants to understand the driving factors (or driver
 Detailed conclusion is provided in LendingClub_Case_Study.pdf.
 Final Recommended driving factors (or driver variables) to consider possible loan default are as follow:
 
+<br/>
 **Customer Attributes**
 
 **dti :** A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
 <br/>
 **annual_inc :** The self-reported annual income provided by the borrower during registration.
 
-
+<br/>
+<br/>
 **Loan Attributes**
 
 **term :** The number of payments on the loan. Values are in months and can be either 36 or 60.
