@@ -41,16 +41,24 @@ In other words, **the company wants to understand the driving factors (or driver
 7. Bivariate Analysis
 8. Conclusion¶
 
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Detailed conclusion is provided in LendingClub_Case_Study.pdf.
+Final Recommended driving factors (or driver variables) to consider possible loan default are as follow:
+
+**Customer Attributes**
+
+**dti :** A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
+**annual_inc :** The self-reported annual income provided by the borrower during registration.
+
+
+**Loan Attributes**
+**term :** The number of payments on the loan. Values are in months and can be either 36 or 60.
+**grade :** LC assigned loan grade.
+**purpose :** A category provided by the borrower for the loan request.
+**int_rate :** Interest Rate on the loan
+**loan_amnt :** The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+**funded_amnt :** The total amount committed to that loan at that point in time.
+
 
 ## Technologies Used
 - Python - Version 3.9.13
@@ -66,6 +74,7 @@ In other words, **the company wants to understand the driving factors (or driver
 - EDA course material from upGrads curriculum at [https://learn.upgrad.com/](https://learn.upgrad.com/).
 - [What is Exploratory Data Analysis? by Prasad Patil](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 - [https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
+- [https://www.financialexpress.com/money/how-do-lenders-determine-your-personal-loan-eligibility/1496832/] & some more google search links on how banks check customer credit worthiness
 
 ## Team
 [Vikram Pawar](https://www.linkedin.com/in/vikrampawar88/)
