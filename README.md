@@ -36,10 +36,10 @@ In other words, **the company wants to understand the driving factors (or driver
 1. Importing required libraries & loading data
 2. Basic data understanding
 3. Data Cleaning
-4. Derived Columns
-5. Univariate Analysis
-7. Bivariate Analysis
-8. Conclusion
+4. Univariate Analysis
+5. Bivariate Analysis
+6. Multivariate Analysis
+7. Conclusion
 
 ## Conclusions
 Detailed conclusion is provided in LendingClub_Case_Study.pdf.
